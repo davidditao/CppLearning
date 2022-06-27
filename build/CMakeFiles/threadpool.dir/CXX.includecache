@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuyukuan/my_code/CppLearning-main/DDthreadpool.cpp
+cassert
+-
+condition_variable
+-
+deque
+-
+functional
+-
+mutex
+-
+thread
+-
+vector
+-
+iostream
+-
+
